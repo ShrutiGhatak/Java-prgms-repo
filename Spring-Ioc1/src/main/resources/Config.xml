@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   
+ <bean id="mymob" class="com.jsp.Mobile">
+  
+  <property name="mobileid" value="1"></property>
+  <property name="mobname" value="Redmi"></property>
+  <property name="model" value="Note 8 pro"></property>
+  
+ </bean>
+ <bean id="mymob1" class="com.jsp.Mobile">
+  
+  <property name="mobileid" value="2"></property>
+  <property name="mobname" value="Samsung"></property>
+  <property name="model" value="Galaxy"></property>
+  
+ </bean>
+</beans>

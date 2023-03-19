@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   
+ <bean id="myEmp" class="com.jsp.Person">
+  
+  <property name="id" value="1"></property>
+  <property name="name" value="Raj"></property>
+  <property name="hadd" ref="myAdd"></property>
+   <property name="oadd" ref="myAdd1"></property>
+  
+ </bean>
+ <bean id="myAdd" class="com.jsp.Address">
+  <property name="district" value="Kolkata"></property>
+  <property name="state" value="WB"></property>
+  <property name="pin" value="700041"></property>
+ </bean>
+ 
+ <bean id="myAdd1" class="com.jsp.Address">
+  <property name="district" value="South 24 pargana"></property>
+  <property name="state" value="WB"></property>
+  <property name="pin" value="700062"></property>
+ </bean>
+ 
+ <bean id="myEmp1" class="com.jsp.Person">
+  
+  <property name="id" value="2"></property>
+  <property name="name" value="Tani"></property>
+  <property name="hadd" ref="myAdd2"></property>
+   <property name="oadd" ref="myAdd3"></property>
+  
+ </bean>
+ 
+ <bean id="myAdd2" class="com.jsp.Address">
+  <property name="district" value="North 24 pargana"></property>
+  <property name="state" value="SSS"></property>
+  <property name="pin" value="700066"></property>
+ </bean>
+ 
+ <bean id="myAdd3" class="com.jsp.Address">
+  <property name="district" value="MMM"></property>
+  <property name="state" value="JJ"></property>
+  <property name="pin" value="700077"></property>
+ </bean>
+</beans>

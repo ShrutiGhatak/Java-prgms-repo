@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\HP\eclipse-workspace\SpringDI\src\main\resources\Config.xml"/>
+			<item value="C:\Users\HP\eclipse-workspace\SpringDI"/>
+			<item value="C:\Users\HP\eclipse-workspace\Spring-IOC\src\main\resources\Config.xml"/>
+			<item value="C:\Users\HP\eclipse-workspace\ManyToOne"/>
+			<item value="C:\Users\HP\eclipse-workspace\OTO"/>
+			<item value="C:\Users\HP\eclipse-workspace\onetoone"/>
+			<item value="C:\Users\HP\eclipse-workspace\LMS\src\main\java\com\jsp\controller\TestDeleteById.java"/>
+			<item value="C:\Users\HP\eclipse-workspace\Hibernate\src\main\resources\META-INF\persistence.xml"/>
+			<item value="C:\Users\HP\eclipse-workspace\Hospital\src\main\java\com\jsp"/>
+			<item value="C:\Users\HP\eclipse-workspace\newmvn"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.jsp"/>
+			<item value="MVNComparator"/>
+			<item value="MVNproject"/>
+			<item value="Hibp2"/>
+			<item value="Hibmvn"/>
+			<item value="MVN3rdjan"/>
+			<item value="mvnhib"/>
+			<item value="22mvn1"/>
+			<item value="22Mvn"/>
+			<item value="New1"/>
+			<item value="MVN19"/>
+			<item value="MVN18"/>
+			<item value="MVN3"/>
+			<item value="Task1"/>
+			<item value="MVN2"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpringIOC_Annotation_Hibernate"/>
+			<item value="SpringIOCAnnotation"/>
+			<item value="SpringDI3"/>
+			<item value="SpringDI2"/>
+			<item value="SpringDI"/>
+			<item value="Spring-Ioc1"/>
+			<item value="Spring-IOC"/>
+			<item value="TourismProject"/>
+			<item value="MTMProject"/>
+			<item value="ManytoMany"/>
+			<item value="MTO1"/>
+			<item value="MTO"/>
+			<item value="ManyToOne"/>
+			<item value="OTM"/>
+			<item value="OneToMany"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
